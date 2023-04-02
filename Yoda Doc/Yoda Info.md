@@ -66,7 +66,8 @@
 ### References and Citations:
 
 ### Appendices:
-
+        - Component Source
+        - Instruction guide
 #
 
 # Introduction:
