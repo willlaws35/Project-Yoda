@@ -632,6 +632,8 @@ In reflection the overall artefact remains successful of what it intended to do,
 ## References and Citations:
 Auto desk (2017) "Autodesk is no longer offering 123D". Available at: https://www.autodesk.com/solutions/123d-apps
 
+Bmoshe (Aug, 2011) "Yoda". Available at: https://www.thingiverse.com/thing:106500
+
 Me, Myself, and I. (Jan 2023) "how to cry yourself to sleep" .
 
 ## Appendices:
