@@ -136,6 +136,7 @@
         Unfortunately, as per the nature of motion capture, similar to that of 3D scanning the cost and space of operation is highly considerable,
         furthermore due to specialist software and system integration, the file mediums are not the most transferable between software,
         without a number of intermediary programs for conversion between file types.
+  ![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/MicrosoftTeams-image.png)
 
 ### Haptic Sculpting:
 
