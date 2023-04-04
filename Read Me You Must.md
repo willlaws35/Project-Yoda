@@ -259,7 +259,7 @@
 
 ## Physical Production Mediums:
 
-Physical Deign mediums, refers to methods of which we can take most of the resultant components of the previously discussed virtual mediums and through various means generate a physical item in various methods and materials, depending on the variation of circumstances, and the requirements of the component.
+Physical Design mediums, refers to methods of which we can take most of the resultant components of the previously discussed virtual mediums and through various means generate a physical item in various methods and materials, depending on the variation of circumstances, and the requirements of the component.
 
 ### 3D printing
 
