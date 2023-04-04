@@ -575,25 +575,25 @@ Since the initial component was produced successfully further components and ass
 
 ![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/IMG_4959.JPG)
 
-![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%202.png)
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%201.png)
 
 Upon assembly of the upper and lower torso section, due to being early developmental stages, a speaker was added as a substitute "piezo buzzer" which would allow the ability of programming hertz values, to play rudimentary sounds and somewhat recognisable songs.
 
 Also proof of concept for the utilisation of the microcontroller endo skeleton structure proved to be reliable, offering easy I/O access in conjunction of reducing material usage and providing strength across the main body section.
 
-![alt next](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%20Grey%20Robes%20Not%20Broke.jpg)
+![alt next](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%202.png)
 
 With the addition of the arm components and the hand segments, the functional premise of the artefact Is complete, however evidently is far from being accomplished to the desired level of realism.
 
 To develop the artefact, I opted to attempt sufficient recollection of GCSE textiles to outfit the character with robes of sorts, which would provide a sense of depth rather than just the pure mechanical endo skeletal structure.
 
-![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%20grey%20robes.png)
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%20Grey%20Robes%20Not%20Broke.jpg)
 
 The primary robe concept consisted of three main attributes, an under and outer cloak, and a hand woven belt.
 
 Whilst the colouring for the artefact is not near its conclusion, with the outfitting it provides a suitable level of insight as to the intended look of the assembled project.
 
-![alt next](RackMultipart20230402-1-8ei680_html_e4518aad822ac529.png)
+![alt next](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%20grey%20robes.png)
 
 Initial painting resulted in a highly inaccurate colour palette, however as a result, it allowed for two main focuses, further experience of hand painting, and the addition of a walking stick to add to the thematic presence of the character.
 
@@ -607,7 +607,7 @@ Further more the addition of the "lightsaber" accessories allowed for further ch
 
 The main point of contention on the artefact at this stage is the paint choice, as its highly inaccurate and distracts from the colour properties expected from the character, therefore revisions were required.
 
-![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/yoda.jpg)
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/PNG%20Yoda/yoda.jpg)
 
 Utilizing a better colour matched acrylic based paint allowed for a much more improved tone for the character, as a result the initial prototype of the artefact was complete developing the extents of basic audio synthesis, and programmable movements allowing for a simulated animatronic character.
 
