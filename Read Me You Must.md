@@ -572,33 +572,33 @@ The first component to be produced was the head of the artefact.
 
 Since the initial component was produced successfully further components and assembly went ahead to form the resemblance of the torso section.
 
-![](RackMultipart20230402-1-8ei680_html_7c4b9251aad29bb3.jpg)
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/IMG_4959.JPG)
 
-![](RackMultipart20230402-1-8ei680_html_71a3fe84d7a96c56.png)
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%202.png)
 
 Upon assembly of the upper and lower torso section, due to being early developmental stages, a speaker was added as a substitute "piezo buzzer" which would allow the ability of programming hertz values, to play rudimentary sounds and somewhat recognisable songs.
 
 Also proof of concept for the utilisation of the microcontroller endo skeleton structure proved to be reliable, offering easy I/O access in conjunction of reducing material usage and providing strength across the main body section.
 
-![](RackMultipart20230402-1-8ei680_html_e00275550f22f4eb.png)
+![alt next](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%20Grey%20Robes%20Not%20Broke.jpg)
 
 With the addition of the arm components and the hand segments, the functional premise of the artefact Is complete, however evidently is far from being accomplished to the desired level of realism.
 
 To develop the artefact, I opted to attempt sufficient recollection of GCSE textiles to outfit the character with robes of sorts, which would provide a sense of depth rather than just the pure mechanical endo skeletal structure.
 
-![](RackMultipart20230402-1-8ei680_html_2e0cc06bd208317b.png)
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%20grey%20robes.png)
 
 The primary robe concept consisted of three main attributes, an under and outer cloak, and a hand woven belt.
 
 Whilst the colouring for the artefact is not near its conclusion, with the outfitting it provides a suitable level of insight as to the intended look of the assembled project.
 
-![](RackMultipart20230402-1-8ei680_html_e4518aad822ac529.png)
+![alt next](RackMultipart20230402-1-8ei680_html_e4518aad822ac529.png)
 
 Initial painting resulted in a highly inaccurate colour palette, however as a result, it allowed for two main focuses, further experience of hand painting, and the addition of a walking stick to add to the thematic presence of the character.
 
 Due to the test robe design proving that the internal armature is capable of operating, revisions to the selected material and a few cosmetic alterations were to be made to allow for higher model accuracy.
 
-![](RackMultipart20230402-1-8ei680_html_a83db070d0b56494.jpg)
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%205.png)
 
 The material selection and second revision of the robe design allowed for improved joint mobility as well as higher source material accuracy.
 
@@ -606,7 +606,7 @@ Further more the addition of the "lightsaber" accessories allowed for further ch
 
 The main point of contention on the artefact at this stage is the paint choice, as its highly inaccurate and distracts from the colour properties expected from the character, therefore revisions were required.
 
-![](RackMultipart20230402-1-8ei680_html_5d8bf9f505306c86.png)
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/yoda.jpg)
 
 Utilizing a better colour matched acrylic based paint allowed for a much more improved tone for the character, as a result the initial prototype of the artefact was complete developing the extents of basic audio synthesis, and programmable movements allowing for a simulated animatronic character.
 
@@ -616,8 +616,8 @@ The first issue which was countered was the audio generation, this was accomplis
 
 The second issue I faced was replicating the model, therefore two further prototypes were developed.
 
-e ![](RackMultipart20230402-1-8ei680_html_71e0dde93bc4bf06.jpg)
- ach of the three versions utilised the premise of if slightly differing hardware would reduce cost as well as improve the versatility of the designs compatibility with differing parameters, therefore both utilise a slightly modified Arduino board for improved ease of connectivity to the motors, and one of the two utilises a nylon based motor rather than the higher durability (and cost) metal geared motors, as a result no subsequent loss in power or ability to move was experienced, and due to less specialised gearing, the substitution lowers the cost of the project per unit going forwards.
+![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Three%20Yodas.png)
+Each of the three versions utilised the premise of if slightly differing hardware would reduce cost as well as improve the versatility of the designs compatibility with differing parameters, therefore both utilise a slightly modified Arduino board for improved ease of connectivity to the motors, and one of the two utilises a nylon based motor rather than the higher durability (and cost) metal geared motors, as a result no subsequent loss in power or ability to move was experienced, and due to less specialised gearing, the substitution lowers the cost of the project per unit going forwards.
 
 Finally the issue of the stability of the system was resolved via an acrylic base which is bolted to the foot portion of the artefact and creates both a display platform and a more reliable surface for which the platform can be programmed and secured via.
 
