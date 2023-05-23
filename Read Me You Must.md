@@ -272,7 +272,9 @@ However, due to not having a life size Yoda as reference, the proportions of thi
 
 Version three managed to refine the proportional issues of the previous design, given these new scaling parameters, utilising this structure would have given the prototype more realistic proportional expectations, however this design still does no include a hinged element which would reduce overall fluidity in design and operational motion of the artefact.
 
-![](RackMultipart20230402-1-8ei680_html_45d756d07b829b48.png)
+![alt_text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/ARM%203.png)
+
+(Availale at: https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Parts/Yoda%20Design%20Iterations/yoda%20arm%20v3.stl)
 
 ## Version 4:
 
@@ -280,13 +282,19 @@ Version four, was something of a complete redesign, occupying a similar dimensio
 
 The type of hinge incorporated in this design most commonly is referred to as a print in place hinge, this hinge, which by other production means is not possible, utilises the incremental z axis build of the 3D printer to create nested free standing structures, similar to the cross sectional view of Russian nesting dolls.
 
-![](RackMultipart20230402-1-8ei680_html_7ec13958330a1129.png)By utilising the concepts system of creating interlocked parts (in this case a pivot point, and pivot plates) a singular designed part can incorporate multiple components in a singular production process meaning that assembly time and external hardware is drastically reduced, creating a compound structure which is easy to replace and substitute when required to maintain the hinged components accelerated wear in comparison to more static elements of the artefact.
+![alt_text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/ARM%204.png)
+
+(Available at: https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Parts/Yoda%20Design%20Iterations/yoda%20arm%20v4%20(elbow%20hinge).stl)
+
+By utilising the concepts system of creating interlocked parts (in this case a pivot point, and pivot plates) a singular designed part can incorporate multiple components in a singular production process meaning that assembly time and external hardware is drastically reduced, creating a compound structure which is easy to replace and substitute when required to maintain the hinged components accelerated wear in comparison to more static elements of the artefact.
 
 ## Version 5:
 
 Version Five maintains an identical pinion system to that of version four, however shortens the overall length to bring the newly added hinged portion into proportional realism ensuring a relative proportional equilibrium in the artefact.
 
-![](RackMultipart20230402-1-8ei680_html_d436e99ff1b5654e.png)
+![alt_text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/ARM%205.png)
+
+(Available at: https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Parts/Yoda%20Design%20Iterations/yoda%20arm%20v5%20(elbow%20hinge).stl)
 
 # Production:
 
