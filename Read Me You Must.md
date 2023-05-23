@@ -259,7 +259,9 @@ In conjunction to the mounting section the arm portion went through significant 
 ## Version 1/2:
 
 ![alt next](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/ARMV1.PNG)
+
 (Available at: https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Parts/Yoda%20Design%20Iterations/yoda%20arm%20v2%20x1.stl)
+
 Due to system limitations, Version 1 remained problematic, therefore Version 2 is merely the restoration of the first trial version of the prototype component.
 
 The Resultant design had some relatively well rounded geometry for the intention of future layering to the animatronic being able to smoothly flow rather than "catch" on any protruding design elements.
