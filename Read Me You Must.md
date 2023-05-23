@@ -363,7 +363,7 @@ Utilizing a better colour matched acrylic based paint allowed for a much more im
 
 After the first prototype three main developmental factors were to be considered, the stability of the artefact as due to the high density and low footprint size of the model it became prone to falling over, along with bother the reproducibility of the model, and finally improved audio for the purposes of better audio output.
 
-The first issue which was countered was the audio generation, this was accomplished through the use of an external system to the Arduino called a "DF Player Pro" the device around 2 centimetres squared is capable of storing several hours of mp3 audio and providing communications with the Arduin should the desire in future be to connect and interface the two controllers to script lines and actions for further interactivity.
+The first issue which was countered was the audio generation, this was accomplished through the use of an external system to the Arduino called a "DF Player Pro" the device around 2 centimetres squared is capable of storing several hours of mp3 audio and providing communications with the Arduino should the desire in future be to connect and interface the two controllers to script lines and actions for further interactivity.
 
 The second issue I faced was replicating the model, therefore two further prototypes were developed.
 
