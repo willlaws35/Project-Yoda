@@ -85,11 +85,12 @@
 
 # Technologies:
 
-        For the duration of this project, I had access to a multitude of physical production means, as well as,
+        For the duration of this project, there was access to a multitude of physical production means, as well as,
         virtual design and development tools for utilisation within the greater development process.
 
         Utilising the information of the range of available technology allowed for a more in depth,
         and informed understanding of what would be capable within the project scope and budget.
+        
 For A comprhensive view of technologies, and evaluation of the resources, see: 
 https://github.com/willlaws35/Project-Yoda/blob/main/Production%20Methods.md
 
@@ -103,7 +104,7 @@ As a result of extremely loose parameters, the project gave rise to the opportun
 
 Fundamentally, whilst incorporating the initial parameters, the intention was to create a character based animatronic statuette.
 
-The Character of Yoda was chosen for the purposes of Yoda being a "cool" character, as well as having basis in puppetry and animatronic origins in live action media, meaning that source material and reference points to character design is readily available, furthermore, Yoda is "cool".
+The Character of Yoda was chosen for the purposes of Yoda being a "cool" character, as well as having basis in puppetry and animatronic origins in live action media, meaning that source material and reference points to character design is readily available, as seen in Muppet wiki(N.D.) furthermore, Yoda is "cool".
 
 Basing the parameter now of character design, the considerations for programmable motorised movements proved appealing to create a level of realism and interactivity with the artefact.
 
@@ -151,7 +152,8 @@ Arduino and Teensy microcontrollers, are arguably similar in a number of ways, b
 
 microcontrollers maintain a much smaller physical profile in comparison to Arduino processors, however offer magnitudes more processing capabilities, unfortunately as a result, and similar to the issue of price proving excessive for the for the project scope and requirements.
 
-As something of a logical elimination of controllers the Arduino system offers an affordable platform for integration to the system, whilst also providing room for developmental expansion should further features be added in development, or as a test bed artefact for electronic component testing.
+As something of a logical elimination of controllers the Arduino system offers an affordable platform for integration to the system, whilst also providing room for developmental expansion should further features be added in development, or as a test bed artefact for electronic component testing, considerations were made between two main microcontroller boards, on of whihc being the arduino uno, (Arduino.cc, N.D.)and a modified thrid party sourced controller which goes by the name of Key Studio, noticibly improved, by the reallocation of I/O pins for easier access, and plug and play servo functionality, as seen in (KeyStudio,2020). 
+However, as a result of both systems using an identical form factor, the designed componenets will remain universal and substitutable.
 
 ### Hardware Cost Evaluation:
 
@@ -385,7 +387,11 @@ Auto desk (2017) "Autodesk is no longer offering 123D". Available at: https://ww
 
 Bmoshe (Aug, 2011) "Yoda". Available at: https://www.thingiverse.com/thing:106500
 
-Me, Myself, and I. (Jan 2023) "how to cry yourself to sleep" .
+Muppet Wiki. (n.d.). Yoda. Available at: https://muppet.fandom.com/wiki/Yoda (Accessed: 17 May 2023).
+
+Arduino Store. (n.d.). Arduino UNO Rev3. Available at: https://store.arduino.cc/products/arduino-uno-rev3 (Accessed: 17 May 2023).
+
+Keyestudio. (2020). 2020 New Keyestudio Plus Development Board with Type-C Interface USB Cable Compatible with Arduino UNO R3. Available at: https://www.keyestudio.com/products/2020-new-keyestudio-plus-development-board-with-type-c-interface-usb-cable-compatible-with-arduino-uno-r3 (Accessed: 17 May 2023).
 
 ## Appendices:
 
