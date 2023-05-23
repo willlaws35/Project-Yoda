@@ -240,9 +240,14 @@ The components designed within 123D required considerably further understanding 
 
 The upper and lower body sections required a significant over view due to the intention to have these components integrate with the micro controller as a result parameter for motor fitment and screw hole tolerances.
 
-![](RackMultipart20230402-1-8ei680_html_c7664ba4f1ada894.png)
+![alt_text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%20Feet.png)
 
-![](RackMultipart20230402-1-8ei680_html_15c2e2ef725b3cb.png)
+(Available at: https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Parts/Yoda%20Design%20Iterations/yoda%20bottom.stl)
+
+![alt_text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Yoda%20Top.png)
+
+(Available at: https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Parts/Yoda%20Design%20Iterations/yoda%20top.stl)
+
 
 Considerations for the lower section resulted in the property that the hexagonal cut-out section being specified dimensions for the motor cable adaptor to pass through to minimise excess cabling in the system.
 
