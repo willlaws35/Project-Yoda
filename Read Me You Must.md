@@ -90,6 +90,7 @@
 
         Utilising the information of the range of available technology allowed for a more in depth,
         and informed understanding of what would be capable within the project scope and budget.
+For A comprhensive view of technologies, and evaluation of the resources, see: 
 https://github.com/willlaws35/Project-Yoda/blob/main/Production%20Methods.md
 
 # Concept:
