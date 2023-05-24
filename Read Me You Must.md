@@ -96,7 +96,7 @@ https://github.com/willlaws35/Project-Yoda/blob/main/Production%20Methods.md
 
 # Concept:
 
-The basis of the project maintained two main parameters for an artefact to be constructed, " skin based element" and a hinged component.
+The basis of the project maintained two main parameters for an artefact to be constructed, "skin based element" and a hinged component.
 
 As a result of extremely loose parameters, the project gave rise to the opportunity to diversify technologies and offer the ability for innovation and creative to take form.
 
@@ -152,7 +152,7 @@ Arduino and Teensy microcontrollers, are arguably similar in a number of ways, b
 
 microcontrollers maintain a much smaller physical profile in comparison to Arduino processors, however offer magnitudes more processing capabilities, unfortunately as a result, and similar to the issue of price proving excessive for the for the project scope and requirements.
 
-As something of a logical elimination of controllers the Arduino system offers an affordable platform for integration to the system, whilst also providing room for developmental expansion should further features be added in development, or as a test bed artefact for electronic component testing, considerations were made between two main microcontroller boards, on of whihc being the arduino uno, (Arduino.cc, N.D.)and a modified thrid party sourced controller which goes by the name of Key Studio, noticibly improved, by the reallocation of I/O pins for easier access, and plug and play servo functionality, as seen in (KeyStudio,2020). 
+As something of a logical elimination of controllers the Arduino system offers an affordable platform for integration to the system, whilst also providing room for developmental expansion should further features be added in development, or as a test bed artefact for electronic component testing, considerations were made between two main microcontroller boards, on of whihc being the arduino uno, (Arduino, N.D.)and a modified thrid party sourced controller which goes by the name of Key Studio, noticibly improved, by the reallocation of I/O pins for easier access, and plug and play servo functionality, as seen in (KeyStudio,2020). 
 However, as a result of both systems using an identical form factor, the designed componenets will remain universal and substitutable.
 
 ### Hardware Cost Evaluation:
