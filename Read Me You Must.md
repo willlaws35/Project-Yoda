@@ -384,7 +384,8 @@ In reflection the overall artefact remains successful of what it intended to do,
 
 ## References and Citations:
 
-* Some content may require subscription, or payment to view *
+Some content may require subscription, or payment to view
+
 Arduino Store. (n.d.). Arduino UNO Rev3. Available at: https://store.arduino.cc/products/arduino-uno-rev3 
 
 Auto desk (2017) "Autodesk is no longer offering 123D". Available at: https://www.autodesk.com/solutions/123d-apps
