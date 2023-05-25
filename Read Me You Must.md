@@ -153,7 +153,7 @@ Arduino and Teensy microcontrollers, are arguably similar in a number of ways, b
 microcontrollers maintain a much smaller physical profile in comparison to Arduino processors, however offer magnitudes more processing capabilities, unfortunately as a result, and similar to the issue of price proving excessive for the for the project scope and requirements.
 
 As something of a logical elimination of controllers the Arduino system offers an affordable platform for integration to the system, whilst also providing room for developmental expansion should further features be added in development, or as a test bed artefact for electronic component testing, considerations were made between two main microcontroller boards, on of whihc being the arduino uno, (Arduino, N.D.)and a modified thrid party sourced controller which goes by the name of Key Studio, noticibly improved, by the reallocation of I/O pins for easier access, and plug and play servo functionality, as seen in (KeyStudio,2020). 
-However, as a result of both systems using an identical form factor, the designed componenets will remain universal and substitutable.
+However, as a result of both systems using an identical form factor, the designed componenets will remain universal and substitutable, alowing for the hypothtical diversified resource supply methods, ensuring substitutable changes to hardware on larger scale productions, with minimal changes.
 
 ### Hardware Cost Evaluation:
 
@@ -169,7 +169,7 @@ Further potential considerations for the audio system would prove useful and an 
 | Speaker | 1-2 | £4-5 |
 
 
-Whilst this costing analysis for the components is respective to the cost per fully produced prototype, the ability of bulk buying some of these components will result in a lower overall cost per prototype ratio.
+Whilst this costing analysis for the components is respective to the cost per fully produced prototype, the ability of bulk buying some of these components will result in a lower overall cost per prototype ratio, for the purposes of this project, prices and the majority of hardware, was sourced Via Amazon.co.uk.
 
 # Design:
 
@@ -365,9 +365,9 @@ Utilizing a better colour matched acrylic based paint allowed for a much more im
 
 After the first prototype three main developmental factors were to be considered, the stability of the artefact as due to the high density and low footprint size of the model it became prone to falling over, along with bother the reproducibility of the model, and finally improved audio for the purposes of better audio output.
 
-The first issue which was countered was the audio generation, this was accomplished through the use of an external system to the Arduino called a "DF Player Pro" the device around 2 centimetres squared is capable of storing several hours of mp3 audio and providing communications with the Arduino should the desire in future be to connect and interface the two controllers to script lines and actions for further interactivity.
+The first issue which was encountered was the audio generation, this was accomplished through the use of an external system to the Arduino called a "DF Player Pro" the device around 2 centimetres squared is capable of storing several hours of mp3 audio and providing communications with the Arduino should the desire in future be to connect and interface the two controllers to script lines and actions for further interactivity.
 
-The second issue I faced was replicating the model, therefore two further prototypes were developed.
+The second issue faced, was replicating the model, therefore two further prototypes were developed.
 
 ![alt text](https://github.com/willlaws35/Project-Yoda/blob/main/Yoda%20Img/Three%20Yodas.png)
 Each of the three versions utilised the premise of if slightly differing hardware would reduce cost as well as improve the versatility of the designs compatibility with differing parameters, therefore both utilise a slightly modified Arduino board for improved ease of connectivity to the motors, and one of the two utilises a nylon based motor rather than the higher durability (and cost) metal geared motors, as a result no subsequent loss in power or ability to move was experienced, and due to less specialised gearing, the substitution lowers the cost of the project per unit going forwards.
@@ -378,20 +378,26 @@ Finally the issue of the stability of the system was resolved via an acrylic bas
 
 Overall as a project, the experience of being able to develop and create an artefact from the fundamental ground up has proven extremely insightful, the diverse range of available technologies, has meant even though not all the methods were utilised, and the choice to expand into differing technologies and software's highlighted how in the modelling process, conceptualisation requires a level of iterative development for the success of a projects overview.
 
-Whilst during this project, my personal preferences of software and methods became increasingly prevalent, which even considering past experience, potentially being forced to diversify in approach to technology and methods may create for more innovation in the outcomes and in terms of the artefact, utilising the functionality of the generative design utilities in fusion 360 could have optimised the conceptual design to improve its overall standards.
+Whilst during this project, personal preferences of software and methods became increasingly prevalent, which even considering past experience, potentially being forced to diversify in approach to technology and methods may create for more innovation in the outcomes and in terms of the artefact, utilising the functionality of the generative design utilities in fusion 360 could have optimised the conceptual design to improve its overall standards, as seen in (Autocar, 2018)
 
-In reflection the overall artefact remains successful of what it intended to do, and created a blend of design and embedded systems to what is most accurately represented as "desktop animatronics" whilst the reduction in degrees of freedom (DOF) on such a scale may not have the level of complexity of which show worthy production animatronic chassis' possess, it allows for an accessible platform for expansion and development utilising the character design basis for a more engaging artefact.
+In reflection the overall artefact remains successful of what it intended to do, and created a blend of design and embedded systems to what is most accurately represented as "desktop animatronics" whilst the reduction in degrees of freedom (DOF) on such a scale may not have the level of complexity of which show worthy production animatronic chassis' possess, it allows for an accessible platform for expansion and development utilising the character design basis for a more engaging artefact, similar to the robtoics platforms unveiled by disney, during their story telling though character demonstration, (Evening Standard, 2023), highlighting highly versatile and interactive characters, with interactivity, enough capabilities to replicate and extend the interafctive ranges and capabilities of an animatronics platform.
 
 ## References and Citations:
 Auto desk (2017) "Autodesk is no longer offering 123D". Available at: https://www.autodesk.com/solutions/123d-apps
 
 Bmoshe (Aug, 2011) "Yoda". Available at: https://www.thingiverse.com/thing:106500
 
-Muppet Wiki. (n.d.). Yoda. Available at: https://muppet.fandom.com/wiki/Yoda (Accessed: 17 May 2023).
+Muppet Wiki. (n.d.). Yoda. Available at: https://muppet.fandom.com/wiki/Yoda
 
-Arduino Store. (n.d.). Arduino UNO Rev3. Available at: https://store.arduino.cc/products/arduino-uno-rev3 (Accessed: 17 May 2023).
+Arduino Store. (n.d.). Arduino UNO Rev3. Available at: https://store.arduino.cc/products/arduino-uno-rev3 
 
-Keyestudio. (2020). 2020 New Keyestudio Plus Development Board with Type-C Interface USB Cable Compatible with Arduino UNO R3. Available at: https://www.keyestudio.com/products/2020-new-keyestudio-plus-development-board-with-type-c-interface-usb-cable-compatible-with-arduino-uno-r3 (Accessed: 17 May 2023).
+Keyestudio. (2020). 2020 New Keyestudio Plus Development Board with Type-C Interface USB Cable Compatible with Arduino UNO R3. Available at: https://www.keyestudio.com/products/2020-new-keyestudio-plus-development-board-with-type-c-interface-usb-cable-compatible-with-arduino-uno-r3
+
+Evening Standard (2023) Disney Reveals rollerblading robot that could be coming to its them parks. Available at: https://www.standard.co.uk/tech/disney-rollerblading-robot-could-be-coming-theme-parks-b1066886.html
+
+Autocar (2018) Bugatti Chiron is first touse ultra-tough 3D-printed brake caliper. Available at: https://www.autocar.co.uk/car-news/new-cars/bugatti-chiron-first-use-ultra-tough-3d-printed-brake-caliper
+
+
 
 ## Appendices:
 
